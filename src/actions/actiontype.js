@@ -1,0 +1,7 @@
+const ACTION_TYPES = {
+
+	REGISTER_TYPE : 'REGISTER_TYPE',
+  LOGIN_TYPE:'LOGIN_TYPE'
+
+}
+export default ACTION_TYPES;
